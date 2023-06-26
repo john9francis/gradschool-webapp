@@ -2,8 +2,11 @@ Django structure:
 
 Apps
 
-Databases:
+Databases
 - models = tables?
+
+Views
+- like a screen the user can see and interact with
 
 three-step guide to making model changes:
 
